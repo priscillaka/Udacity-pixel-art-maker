@@ -12,7 +12,6 @@ $('#sizePicker').submit(function(e) {
     makeGrid(height, width)
 });
 
-
 //Builds the grid
 function makeGrid(height, width) {
     $('#pixelCanvas').empty();  //Clears the grid and starts over
@@ -21,13 +20,12 @@ function makeGrid(height, width) {
     for(var i = 0; i < height; i++) {
         $('#pixelCanvas').append('<tr class="row"></tr>');
     }
-
 //Loop to insert the columns
     for(var i = 0; i < width; i++) {
         $('.row').append('<td></td>');
     }
-
-
+    
+    
 // here is where the colorPicker is used to color each cell
     $('td').click(function addColor() {
         if($(this).attr("style")) {
