@@ -2,8 +2,6 @@
 
 This is the final project from the Udacity - Intro to Programming Nanodegree Program.
 
-Project Name: 		Pixel Art Maker
-
 Built with: 		HTML, CSS and JavaScript
 
 ## Description
