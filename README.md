@@ -20,7 +20,7 @@ To get started:
 - Clone this repo
 - Open the designs.js
 - Open the index.html
-- Have fun
+- Have fun :)
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
