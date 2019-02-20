@@ -4,13 +4,13 @@ This is the final project from the Udacity - Intro to Programming Nanodegree Pro
 
 Built with: 		HTML, CSS and JavaScript
 
-## Description
-Build a single-page web app that allows users to draw pixel art on a customizable canvas.
-
 ## Table of Contents
-
+* [Description](#description)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+
+## Description
+Build a single-page web app that allows users to draw pixel art on a customizable canvas.
 
 ## Instructions
 
